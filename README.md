@@ -1,6 +1,6 @@
 # Smart IT Support Agent: Power Platform Architecture Prototype
 
-[![Live Demo](FUTURE VERCEL LINK)]
+[![Live Demo](https://it-support-agent-prototype.vercel.app/)]
 
 ## 🎯 Project Objective
 **Role:** Power Platform Solution Architect  
